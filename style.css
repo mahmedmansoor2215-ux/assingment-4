@@ -1,0 +1,85 @@
+h1{
+color:#0866FF;
+text-align: center; 
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding: 0%;
+margin: 0%;
+font-size: 50px;
+font-weight:12000;
+}
+p{
+text-align: center; 
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 21px;
+padding: 0%;
+margin: 0%;
+}
+.Email{
+font-weight:800;
+border-color: #DDDFE2;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+height: 30px;
+width: 250px;
+}
+.password{
+font-weight:800;
+border-color: #DDDFE2;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+height:30px;
+width:250px
+}
+.style{
+text-align: center;
+background-color: #FFFFFF;
+border: solid 0.5px lightgrey;
+margin: 20px 20px 20px 185px;
+height: 300px;
+width: 300px;
+content: 20px;
+padding:10px;
+border-radius: 10px;
+}
+body{
+background-color: #F2F4F7
+}
+.login{
+font-weight:800;
+border-color: lightgrey;
+margin: 10px;
+padding: 5px;
+border-radius: 10px;
+height: 40px;
+width: 265px;
+background-color: #0866FF;
+color:white;
+}
+.pass{
+font-weight:800;  
+border-color: lightgrey;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+height: 40px;
+width: 265px;
+background-color:white;
+color:  #0866FF;
+}
+.new{
+font-weight:800;
+border-color: lightgrey;
+margin: 15px;
+padding: 15px 15PX 30PX;
+border-radius: 10px;
+height: 10px  ;
+width: 200px;
+background-color:#42B72A;
+color:white;
+font-size: medium;
+}
+#small{
+font-size:small;
+}
